@@ -1,5 +1,7 @@
 # Sorting_Visualizer
 
+![Sort_vis](https://github.com/lucio617/Sorting_Comparisons_Visualization/assets/55478160/11056c97-f570-4bec-a1d0-2b44ffcdc4bb)
+
 A web application showcasing the inner workings of sorting algorithms.
 
 Implemented algorithms:
